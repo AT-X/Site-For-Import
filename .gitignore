@@ -1,0 +1,5 @@
+1. .gitignore tmp/
+2. .gitignore *_old
+3. .gitignore *_backup
+4. .gitignore Thumbs.db
+5. .gitignore .DS_Store
